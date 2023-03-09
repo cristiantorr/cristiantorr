@@ -1,10 +1,8 @@
-# Hola, soy Cristian Torres
+# Hola, soy Cristian Torres  WEB DEVELOPER
 
-WEB DEVELOPER : amante a la técnología, soy una persona proactiva, autodidacta por naturaleza excelente compañero de equipo, organizado y responsable.
-Disfruto mucho aprender cosas nuevas y a su vez sumar nuevos conocimientos.
+Soy amante a la técnología, soy una persona proactiva, autodidacta por naturaleza, disfruto mucho aprender cosas nuevas y a su vez sumar nuevos conocimientos.
 
-
-🎓 Educación Cursos
+## 🎓 Educación Cursos
 
 * Udemy
 * Platzi
@@ -12,7 +10,7 @@ Disfruto mucho aprender cosas nuevas y a su vez sumar nuevos conocimientos.
 * SoloLearn
 * Codeacademy
  
-💻 Tecnologías e intereses
+## 💻 Tecnologías e intereses
 
 * Html5
 * Css
