@@ -1,31 +1,58 @@
-# Hola, soy Cristian Torres  WEB DEVELOPER
+# 👋 Hola, soy Cristian Torres - WEB DEVELOPER
 
-Soy amante a la técnología, soy una persona proactiva, autodidacta por naturaleza, disfruto mucho aprender cosas nuevas y a su vez sumar nuevos conocimientos, me interesa mucho el desarrollo de apps mobile y el backend.
+Soy amante de la tecnología, proactivo, autodidacta por naturaleza.  
+Disfruto mucho aprender cosas nuevas y sumar conocimientos.  
+Me interesa especialmente el desarrollo de apps móviles y el backend.
 
-## 🎓 Educación Cursos
+---
 
-* Udemy
-* Platzi
-* Google Active
-* SoloLearn
-* Codeacademy
- 
-## 💻 Tecnologías e intereses
+<div align="center">
 
-* Html5
-* Css
-* Js
-* jQuery
-* php
-* Wordpress
-* Plugins
-* Laravel
-* Lumen
-* Node Js
-* Flutter
-* React
+<table>
+<tr>
+<td>
 
-## Agradecimiento🎁
+## 🧠 Educación y Tecnologías
 
-* Salud 🍺 para seguir adelante. 
+| 🎓 Educación Cursos             | 💻 Tecnologías e intereses    |
+|:---------------------------------|:-------------------------------|
+| Udemy                            | Html5                          |
+| Platzi                           | Css                            |
+| Google Active                    | Js                             |
+| SoloLearn                        | jQuery                         |
+| Codeacademy                      | PHP                            |
+|                                  | Wordpress                      |
+|                                  | Plugins                        |
+|                                  | Laravel                        |
+|                                  | Lumen                          |
+|                                  | Node Js                        |
+|                                  | Flutter                        |
+|                                  | React                          |
 
+<br>
+
+</td>
+
+<td>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=cristiantorr&show_icons=true&theme=highcontrast" width="100%" />
+
+<br>
+
+## 📚 Lenguajes más usados
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiantorr&layout=compact&theme=highcontrast" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎁 Agradecimiento
+
+* Salud 🍺 para seguir adelante.
