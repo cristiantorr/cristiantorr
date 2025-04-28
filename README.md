@@ -16,18 +16,16 @@ Me interesa especialmente el desarrollo de apps móviles y el backend.
 
 | 🎓 Educación Cursos             | 💻 Tecnologías e intereses    |
 |:---------------------------------|:-------------------------------|
-| Udemy                            | Html5                          |
-| Platzi                           | Css                            |
-| Google Active                    | Js                             |
-| SoloLearn                        | jQuery                         |
-| Codeacademy                      | PHP                            |
-|                                  | Wordpress                      |
-|                                  | Plugins                        |
-|                                  | Laravel                        |
-|                                  | Lumen                          |
-|                                  | Node Js                        |
-|                                  | Flutter                        |
-|                                  | React                          |
+| Udemy                            | Html5, Css, Js                 |
+| Platzi                           | Tailwind, Boostrap             |
+| Google Active                    | jQuery                         |
+| SoloLearn                        | Node Js                        |
+| Codeacademy                      | React Js, React Native         |
+|                                  | Astro Js                       |
+|                                  | php                            |
+|                                  | Wordpress, Crear Plugins       |
+|                                  | Laravel, Lumen                 |
+
 
 <br>
 
