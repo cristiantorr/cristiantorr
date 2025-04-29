@@ -14,19 +14,18 @@ Me interesa especialmente el desarrollo de apps móviles y el backend.
 
 ## 🧠 Educación y Tecnologías
 
-| 🎓 Educación Cursos             | 💻 Tecnologías e intereses    |
-|:---------------------------------|:-------------------------------|
-| Udemy                            | Html5, Css, Js                 |
-| Platzi                           | Tailwind, Boostrap             |
-| Google Active                    | jQuery                         |
-| SoloLearn                        | Node Js                        |
-| Codeacademy                      | React Js, React Native         |
-|                                  | Astro Js                       |
-|                                  | php                            |
-|                                  | Wordpress, Crear Plugins       |
-|                                  | Laravel, Lumen                 |
-|                                  | Python Basic                   |
-
+| 🎓 Educación Cursos | 💻 Tecnologías e intereses |
+| :------------------ | :------------------------- |
+| Udemy               | Html5, Css, Js             |
+| Platzi              | Tailwind, Boostrap         |
+| Google Active       | jQuery                     |
+| SoloLearn           | Node Js                    |
+| Codeacademy         | React Js, React Native     |
+|                     | Astro Js                   |
+|                     | php                        |
+|                     | Wordpress, Crear Plugins   |
+|                     | Laravel, Lumen             |
+|                     | Python Basic               |
 
 <br>
 
@@ -36,13 +35,13 @@ Me interesa especialmente el desarrollo de apps móviles y el backend.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=cristiantorr&show_icons=true&theme=highcontrast" width="100%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiantorr&show_icons=true&theme=highcontrast)
 
 <br>
 
 ## 📚 Lenguajes más usados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiantorr&layout=compact&theme=highcontrast" width="100%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiantorr&layout=compact&theme=highcontrast)
 
 </td>
 </tr>
@@ -54,4 +53,4 @@ Me interesa especialmente el desarrollo de apps móviles y el backend.
 
 ## 🎁 Agradecimiento
 
-* Salud 🍺 para seguir adelante.
+- Salud 🍺 para seguir adelante.
