@@ -25,6 +25,7 @@ Me interesa especialmente el desarrollo de apps móviles y el backend.
 |                                  | php                            |
 |                                  | Wordpress, Crear Plugins       |
 |                                  | Laravel, Lumen                 |
+|                                  | Python Basic                   |
 
 
 <br>
