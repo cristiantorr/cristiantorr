@@ -8,6 +8,8 @@ Como Full Stack Developer, he participado en el desarrollo de aplicaciones utili
 
 Adicionalmente, he trabajado como Freelance Web Developer, desarrollando soluciones web personalizadas para diferentes clientes, adaptándome a distintos sectores y necesidades de negocio, desde sitios corporativos hasta aplicaciones con funcionalidades específicas.
 
+En mi día a día incorporo herramientas de Inteligencia Artificial Generativa para optimizar el proceso de desarrollo, utilizando GitHub Copilot, ChatGPT, Claude, Gemini y OpenCode Agents para generación y refactorización de código, documentación técnica, análisis de requerimientos, resolución de problemas, aprendizaje de nuevas tecnologías y automatización de tareas, permitiéndome entregar soluciones de forma más eficiente y con altos estándares de calidad.
+
 Me considero una persona apasionada por la tecnología, el aprendizaje continuo y la resolución de problemas. Disfruto trabajar en equipos multidisciplinarios, compartir conocimiento y participar en todo el ciclo de vida del desarrollo de software, aplicando buenas prácticas de programación, código limpio, control de versiones con Git y metodologías orientadas a la entrega de soluciones escalables y mantenibles.
 
 ---
