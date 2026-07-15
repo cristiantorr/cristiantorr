@@ -32,7 +32,7 @@ Me considero una persona apasionada por la tecnología, el aprendizaje continuo 
 | Microsoft Learn     | Astro Js                   |
 | Google Active       | php                        |
 | Midudev             | Wordpress, Crear Plugins   |
-|                     | Laravel, Lumen             |
+| BigShool            | Laravel, Lumen             |
 |                     | Python Basic               |
 
 <br>
