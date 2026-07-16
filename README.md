@@ -1,9 +1,6 @@
 # 👋 Hola, soy Cristian Torres
 
-<p align="center">
-<img src="./assets/portfolio-preview.webp" width="900">
-</p>
-## Full Stack Web Developer | WordPress Specialist | React | Astro | PHP
+## Full Stack Web Developer | WordPress Specialist | React | Astro | PHP | API Integrations | AI-Assisted Development
 
 <p align="center">
 
@@ -196,9 +193,7 @@ Desarrollando:
 - SEO
 - Landing Pages
 - Plataformas empresariales
--
-
----
+- ***
 
 ### SM Digital
 
