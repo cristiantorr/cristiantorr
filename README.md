@@ -11,6 +11,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=cristiantorr&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
+</br>
 <div align="center">
 
 <a href="https://portafolio-nine-umber.vercel.app/" target="_blank">
