@@ -1,15 +1,17 @@
 # 👋 Hola, soy Cristian Torres
 
-## Full Stack Web Developer | WordPress Specialist | React | Astro | PHP | API Integrations | AI-Assisted Development
+### Full Stack Web Developer | WordPress Specialist | React | Astro | PHP | API Integrations | AI-Assisted Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,php,laravel,wordpress,mysql,aws,git,github,vscode" />
-
-</p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cristiantorr&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<p align="center">
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,php,laravel,wordpress,mysql,aws,git,github,vscode" alt="My Skills" />
+  <br />
+</div>
+<div align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cristiantorr&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+<div align="center">
 
 <a href="https://portafolio-nine-umber.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐%20Portafolio-Ver%20sitio-orange?style=for-the-badge">
@@ -23,7 +25,7 @@
 <img src="https://img.shields.io/badge/GitHub-cristiantorr-181717?style=for-the-badge&logo=github">
 </a>
 
-</p>
+</div>
 
 ---
 
