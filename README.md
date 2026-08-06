@@ -1,15 +1,13 @@
 # 👋 Hola, soy Cristian Torres
 
-### Full Stack Web Developer | WordPress Specialist | React | Astro | PHP | API Integrations | AI-Assisted Development
+### Desarrollador Web & CMS | WordPress, Integraciones & Optimización de Rendimiento | React • Next.js • Node.js • Astro • PHP • REST APIs • AWS • AI Agents • LLMs • OpenAI & Ollama • ChatG
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,php,laravel,wordpress,mysql,aws,git,github,vscode" alt="My Skills" />
   <br />
 </div>
 <div align="center">
- <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cristiantorr&theme=gruvbox-duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fcristiantorr&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 </div>
 </br>
 <div align="center">
