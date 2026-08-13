@@ -145,81 +145,33 @@ Utilizo IA diariamente para optimizar el desarrollo de software.
 
 ---
 
-# 💼 Experiencia Profesional
+# ⭐ Proyectos Destacados
 
-## Full Stack Developer
+## 🎯 Sistema de rifas torres
 
-### Pureblink Inc.
-
-Participé en el desarrollo y mantenimiento de proyectos empresariales utilizando:
-
-- WordPress
-- React
-- Tailwind CSS
-- Salesforce CRM
-- AWS
-- APIs REST
-
-Entre las responsabilidades principales estuvieron:
-
-- Desarrollo de nuevas funcionalidades.
-- Optimización de rendimiento.
-- Integraciones con APIs.
-- Mantenimiento evolutivo.
-- Corrección de errores.
-- Despliegues.
-
----
-
-## Full Stack Developer
-
-### PUREBLINK INC
-
-Participe en el desarrollo de un sitio web como Losani y mantenimiento de varias plataformas.
+Desarrollo de sistema de rifas torres
 
 Tecnologías:
 
-- WordPress
-- PHP
+**Frontend:**
+
+- React 18
+- Vite
 - Tailwind CSS
-- Salesforce
-- ACF
+- React Router v6
+- Axios
 
-Desarrollando:
+**Backend:**
 
-- Sitios corporativos
-- Plugins personalizados
-- Performance Web
-- WooCommerce
-- APIs REST
-- ACF PRO
-- SEO
-- Landing Pages
-- Plataformas empresariales
-- ***
+- Node.js + Express
+- SQLite (sql.js)
+- JWT (jsonwebtoken)
+- bcryptjs
+- Zod (validación)
 
-### SM Digital
+Repositorio
 
-Durante más de nueve años participé en el desarrollo de soluciones digitales para importantes marcas colombianas como:
-
-- Saltín Noel
-- IMUSA
-- Colcafé
-- Chocolisto
-
-Desarrollando:
-
-- Sitios corporativos
-- Plugins personalizados
-- WooCommerce
-- APIs REST
-- ACF PRO
-- Landing Pages
-- Plataformas empresariales
-
----
-
-# ⭐ Proyectos Destacados
+https://github.com/cristiantorr/sistema-de-rifas-torres
 
 ## 🏡 Losani Homes
 
