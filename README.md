@@ -30,7 +30,7 @@
 
 # 👨🏻‍💻 Sobre mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** con más de **10 años de experiencia** desarrollando aplicaciones web, plataformas digitales y soluciones empresariales.
+Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información**<!--  con más de **10 años de experiencia** --> desarrollando aplicaciones web, plataformas digitales y soluciones empresariales.
 
 Durante mi carrera he participado en el análisis, diseño, desarrollo, implementación y mantenimiento de aplicaciones web para empresas nacionales e internacionales, especializándome principalmente en **WordPress, PHP, React y Astro**.
 
